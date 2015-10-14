@@ -1,0 +1,24 @@
+FileOpenedAction 1444823338066 Frame.java 794 6 7 0
+FileOpenedAction 1444823369087 BowlingGame.java 584 5 2 0
+RefactoringAction 1444825443759 Frame.java ADD void Lastkonckpins() METHOD
+RefactoringAction 1444825451661 Frame.java REMOVE Lastkonckpins() METHOD
+RefactoringAction 1444825481515 Frame.java ADD void Lastkonckpins() METHOD
+RefactoringAction 1444825485805 Frame.java REMOVE Lastkonckpins() METHOD
+RefactoringAction 1444825733586 Frame.java RENAME score()=>int score(int) METHOD
+RefactoringAction 1444826082718 Frame.java RENAME score(int)=>int score() METHOD
+RefactoringAction 1444826145625 Frame.java ADD int FIELD
+RefactoringAction 1444826148137 Frame.java REMOVE score FIELD
+RefactoringAction 1444826240013 Frame.java ADD int FIELD
+RefactoringAction 1444826242031 Frame.java REMOVE score FIELD
+RefactoringAction 1444828868424 BowlingGame.java RENAME score()=>int score(int) METHOD
+RefactoringAction 1444828875590 BowlingGame.java ADD Frame getCurrentFrame() METHOD
+RefactoringAction 1444829064496 BowlingGame.java ADD boolean isAllStrike() METHOD
+RefactoringAction 1444829067629 BowlingGame.java ADD boolean isLastFrame() METHOD
+RefactoringAction 1444829879607 BowlingGame.java ADD int MAX_FRAMES FIELD
+RefactoringAction 1444829884633 BowlingGame.java REMOVE MAX_FRAMES FIELD
+RefactoringAction 1444829900595 BowlingGame.java ADD int MAX_FRAMES FIELD
+RefactoringAction 1444829924423 Frame.java ADD Frame() METHOD
+RefactoringAction 1444829953911 Frame.java REMOVE Frame() METHOD
+RefactoringAction 1444829974395 Frame.java ADD Frame() METHOD
+RefactoringAction 1444829985486 Frame.java REMOVE Frame() METHOD
+EditAction 1444830138903 Frame.java 973 6 5 0
