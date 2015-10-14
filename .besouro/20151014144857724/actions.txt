@@ -22,3 +22,8 @@ RefactoringAction 1444829953911 Frame.java REMOVE Frame() METHOD
 RefactoringAction 1444829974395 Frame.java ADD Frame() METHOD
 RefactoringAction 1444829985486 Frame.java REMOVE Frame() METHOD
 EditAction 1444830138903 Frame.java 973 6 5 0
+CompilationAction 1444830142993 BowlingGame.java
+CompilationAction 1444830142994 Frame.java
+CompilationAction 1444830142995 Frame.java
+CompilationAction 1444830142996 Frame.java
+CompilationAction 1444830142997 Frame.java
